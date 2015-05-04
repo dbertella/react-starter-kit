@@ -1,10 +1,10 @@
 {
-  "name": "html-course",
+  "name": "react-starter",
   "version": "0.0.0",
   "authors": [
     "dbertella <daniele.bertella@gmail.com>"
   ],
-  "description": "File iniziali per il corso di html e css base",
+  "description": "Base per iniziare lo sviluppo con react / gulp",
   "keywords": [
     "html",
     "css",
